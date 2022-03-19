@@ -1,4 +1,4 @@
-# orm-wonder-tales
+# ORM wonder tales
 
 ## Development
 
