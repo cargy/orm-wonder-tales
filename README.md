@@ -1,5 +1,10 @@
 # ORM wonder tales
 
+## Tales
+
+- `@OneToOne` and native queries
+- ...
+
 ## Development
 
 ### Update reveal.js in slides
